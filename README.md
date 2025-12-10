@@ -1,6 +1,4 @@
 
-```
-
 **Installation**
 
 Install the project dependencies using npm:
@@ -21,7 +19,8 @@ VITE_APPWRITE_DATABASE_ID=
 VITE_APPWRITE_COLLECTION_ID=
 ```
 
-Replace the placeholder values with your actual **[TheMovieDatabase API](https://developer.themoviedb.org/reference/intro/getting-started)** and **[Appwrite](https://apwr.dev/JSM050)** credentials.
+Replace the placeholder values with your actual **[TheMovieDatabase API](https://developer.themoviedb.org/reference/intro/getting-started)** 
+and **[Appwrite](https://apwr.dev/JSM050)** credentials.
 
 **Running the Project**
 
